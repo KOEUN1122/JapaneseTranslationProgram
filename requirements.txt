@@ -1,0 +1,7 @@
+manga-ocr
+fugashi
+unidic-lite
+mss
+keyboard
+requests
+python-dotenv
